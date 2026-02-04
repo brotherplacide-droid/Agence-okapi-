@@ -1,4 +1,8 @@
 import streamlit as st
+import streamlit as st
+
+st.title("Bienvenue dans OKAPI Uvira 🚀")
+st.write("Ton application Streamlit est déployée avec succès !")
 import json
 
 
