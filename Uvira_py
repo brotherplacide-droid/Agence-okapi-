@@ -1,9 +1,10 @@
 import streamlit as st
-import streamlit as st
 
-st.title("Bienvenue dans OKAPI Uvira 🚀")
-st.write("Ton application Streamlit est déployée avec succès !")
-import json
+Import json
+
+Print("Bienvenue dans OKAPI Uvira ")
+Print("Ton application Streamlit est déployée avec succès !")
+
 
 
 print(f" BIENVENUS A AGENCE OKAPI UVIRA")
